@@ -14,8 +14,8 @@ public class Exercicio5 {
 		System.out.println("Entre com a nota 3: ");
 		n3 = ler.nextFloat();
 		mf = (n1*2+n2*3+n3*5)/10;
-		System.out.println("A média final é: ");
-		System.out.print(mf);
+		System.out.println("A média final é: "+mf);
+		
 
 	}
 
