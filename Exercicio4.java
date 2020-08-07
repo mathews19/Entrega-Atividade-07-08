@@ -15,12 +15,10 @@ public class Exercicio4 {
 		r = (int) Math.pow((a+b), 2);
 		s = (int) Math.pow((b+c), 2);
 		d = (r+s)/2;
-		System.out.println("O número r é: ");
-		System.out.println(r);
-		System.out.println("O número s é: ");
-		System.out.println(s);
-		System.out.println("O número d é: ");
-		System.out.println(d);
+		System.out.println("O número r é: "+r);
+		System.out.println("O número s é: "+s);
+		System.out.println("O número d é: "+d);
+		
 		
 		
 
